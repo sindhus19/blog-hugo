@@ -4,5 +4,5 @@ draft = false
 image = "img/portfolio/gandhiji.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Gandhiji"
-weight = 8
+weight = 9
 +++

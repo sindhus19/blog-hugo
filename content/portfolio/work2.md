@@ -11,5 +11,5 @@ weight = 1
 Ganesha is widely revered as the remover of obstacles, the patron of arts and sciences and the deva of intellect and wisdom. As the god of beginnings, he is honoured at the start of rites and ceremonies.
 <!--more-->
 
-{{< youtube z8K5VcBfV9Q >}}
+{{< youtube id="z8K5VcBfV9Q"  autoplay="true" >}}
 
