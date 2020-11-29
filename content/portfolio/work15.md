@@ -8,4 +8,4 @@ weight = 15
 +++
 Article about me in Northwest Winterfest
 
-#### **[Click here for link to Original Article!](https://northwestwinterfest.com/indian-painted-tree/)**
+#### **[Click here for Original Article!](https://northwestwinterfest.com/indian-painted-tree/)**
