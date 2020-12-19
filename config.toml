@@ -13,6 +13,7 @@ googleAnalytics = ""
   style = "default"
   description = "Imaginations 2 Creation By Sindhu Surapaneni"
   copyright = "&copy;2020 Sindhu Surapaneni Imaginations 2 Creation"
+  og_image = "/images/featured.png"
   sidebarAbout = [
     "Hello Everybody, This is Sindhu Surapaneni from Imaginations 2 Creation. A young Creative artist and international story teller.",
   ]
