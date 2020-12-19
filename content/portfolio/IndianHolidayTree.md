@@ -5,6 +5,7 @@ image = "img/portfolio/sindhu-nw-winterfest.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Holiday Tree representing Indian Culture"
 weight = 1
+preview_only = true
 +++
 Article about me in Northwest Winterfest
 
