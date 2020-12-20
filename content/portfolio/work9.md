@@ -6,3 +6,5 @@ date = "2016-11-05T20:02:19+05:30"
 title = "Namaste"
 weight = 10
 +++
+
+{{< youtube id="66Ux8z07tuk"  autoplay="true" >}}
