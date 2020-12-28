@@ -11,4 +11,8 @@ Article about me in Northwest Winterfest
 
 {{< youtube id="yrS4c6tnLFk"  autoplay="true" >}}
 
-#### **[Click here for Original Article!](https://northwestwinterfest.com/indian-painted-tree/)**
+\
+
+
+
+# **[Click here for Original Article!](https://northwestwinterfest.com/indian-painted-tree/)**
