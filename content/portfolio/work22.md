@@ -7,6 +7,6 @@ title = "Courage By Sindhu Surapaneni"
 weight = 22
 +++
 
-![Talking Radio Article](https://raw.githubusercontent.com/sindhus19/sindhus19.github.io/main/img/portfolio/sindhu-talking-stories.png)
+{{< figure src="https://raw.githubusercontent.com/sindhus19/sindhus19.github.io/main/img/portfolio/sindhu-talking-stories.png" link=https://www.mixcloud.com/EastLondonRadio/talking-stories-45/?fbclid=IwAR0lS7WUq-Bf-5KNzs4Q6cukFSK446DOdIf6D937ePMZmKBwlOkOKFnIuto >}}
 
 #### **[Click here for Original Article!](https://www.mixcloud.com/EastLondonRadio/talking-stories-45/?fbclid=IwAR0lS7WUq-Bf-5KNzs4Q6cukFSK446DOdIf6D937ePMZmKBwlOkOKFnIuto)**

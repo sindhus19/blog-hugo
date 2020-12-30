@@ -8,11 +8,11 @@ weight = 16
 +++
 Article about me in TANA publication
 
-![Tana Article 1](https://raw.githubusercontent.com/sindhus19/sindhus19.github.io/main/img/portfolio/Tana1.png)
-![Tana Article 2](https://raw.githubusercontent.com/sindhus19/sindhus19.github.io/main/img/portfolio/Tana2.png)
-![Tana Article 3](https://raw.githubusercontent.com/sindhus19/sindhus19.github.io/main/img/portfolio/Tana3.png)
-![Tana Article 4](https://raw.githubusercontent.com/sindhus19/sindhus19.github.io/main/img/portfolio/Tana4.png)
+{{< figure src="https://raw.githubusercontent.com/sindhus19/sindhus19.github.io/main/img/portfolio/Tana1.png" link=https://tana.org/uploads/patrika/pdf/TANA_Patrika_Sep2020.pdf?fbclid=IwAR0dFfhYCXPyq_vDzT16UUgMvWK90Cy9j_QKrP2q2YsYYfenc77VMJhGgo0 >}}
+{{< figure src="https://raw.githubusercontent.com/sindhus19/sindhus19.github.io/main/img/portfolio/Tana2.png" link=https://tana.org/uploads/patrika/pdf/TANA_Patrika_Sep2020.pdf?fbclid=IwAR0dFfhYCXPyq_vDzT16UUgMvWK90Cy9j_QKrP2q2YsYYfenc77VMJhGgo0 >}}
+{{< figure src="https://raw.githubusercontent.com/sindhus19/sindhus19.github.io/main/img/portfolio/Tana3.png" link=https://tana.org/uploads/patrika/pdf/TANA_Patrika_Sep2020.pdf?fbclid=IwAR0dFfhYCXPyq_vDzT16UUgMvWK90Cy9j_QKrP2q2YsYYfenc77VMJhGgo0 >}}
+{{< figure src="https://raw.githubusercontent.com/sindhus19/sindhus19.github.io/main/img/portfolio/Tana4.png" link=https://tana.org/uploads/patrika/pdf/TANA_Patrika_Sep2020.pdf?fbclid=IwAR0dFfhYCXPyq_vDzT16UUgMvWK90Cy9j_QKrP2q2YsYYfenc77VMJhGgo0 >}}
 
-![Tana Shield](https://raw.githubusercontent.com/sindhus19/sindhus19.github.io/main/img/portfolio/sindhu-tana-1.png)
+{{< figure src="https://raw.githubusercontent.com/sindhus19/sindhus19.github.io/main/img/portfolio/sindhu-tana-1.png" link=https://tana.org/uploads/patrika/pdf/TANA_Patrika_Sep2020.pdf?fbclid=IwAR0dFfhYCXPyq_vDzT16UUgMvWK90Cy9j_QKrP2q2YsYYfenc77VMJhGgo0 >}}
 
 #### **[Click here for Original Article!](https://tana.org/uploads/patrika/pdf/TANA_Patrika_Sep2020.pdf?fbclid=IwAR0dFfhYCXPyq_vDzT16UUgMvWK90Cy9j_QKrP2q2YsYYfenc77VMJhGgo0)**
