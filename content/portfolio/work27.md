@@ -9,3 +9,7 @@ weight = 2
 
 #### Day 1 - Lord Ganesha Rangoli
 {{< youtube id="3TUzngaWtXY"  autoplay="true" >}}
+
+\
+#### Day 2 - Ducks Rangoli
+{{< youtube id="vLMtTgQ7Pis"  autoplay="true" >}}
