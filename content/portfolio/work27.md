@@ -8,10 +8,16 @@ weight = 2
 +++
 
 #### Day 1 - Lord Ganesha Rangoli
-{{< youtube id="3TUzngaWtXY"  autoplay="true" >}}\
+{{< youtube id="3TUzngaWtXY"  autoplay="false" >}}\
 
 #### Day 2 - Ducks Rangoli
 {{< youtube id="7XQm37f0ALw"  autoplay="false" >}}\
 
 #### Day 3 - Mandala Rangoli
 {{< youtube id="nNwwG2Ax75Y"  autoplay="false" >}}\
+
+#### Day 4 - Diya & Peacock Rangoli
+{{< youtube id="i7g8BMWek60"  autoplay="false" >}}\
+
+#### Day 5 - Simple Flower Rangoli
+{{< youtube id="tULBIAQQfCE"  autoplay="false" >}}\
