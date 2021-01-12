@@ -21,3 +21,6 @@ weight = 2
 
 #### Day 5 - Simple Flower Rangoli
 {{< youtube id="tULBIAQQfCE"  autoplay="false" >}}\
+
+#### Day 6 - Mandala Flower Rangoli
+{{< youtube id="u3mnnA51Bkg"  autoplay="false" >}}\
