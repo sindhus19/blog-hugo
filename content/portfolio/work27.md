@@ -24,3 +24,6 @@ weight = 2
 
 #### Day 6 - Mandala Flower Rangoli
 {{< youtube id="u3mnnA51Bkg"  autoplay="false" >}}\
+
+#### Day 7 - Sankranthi Rangoli
+{{< youtube id="r-B591-giHs"  autoplay="false" >}}\
