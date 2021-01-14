@@ -27,3 +27,6 @@ weight = 2
 
 #### Day 7 - Sankranthi Rangoli
 {{< youtube id="r-B591-giHs"  autoplay="false" >}}\
+
+#### Day 8 - Eagle Rangoli
+{{< youtube id="sBxS3ER7fv4"  autoplay="false" >}}\
