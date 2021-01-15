@@ -30,3 +30,6 @@ weight = 2
 
 #### Day 8 - Eagle Rangoli
 {{< youtube id="sBxS3ER7fv4"  autoplay="false" >}}\
+
+#### Day 9 - Flower Rangoli
+{{< youtube id="2fFpIA6UA8o"  autoplay="false" >}}\
