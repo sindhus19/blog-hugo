@@ -33,3 +33,9 @@ weight = 2
 
 #### Day 9 - Flower Rangoli
 {{< youtube id="2fFpIA6UA8o"  autoplay="false" >}}\
+
+#### Day 10 - Hearts Rangoli
+{{< youtube id="kZEnNEiZrlQ"  autoplay="false" >}}\
+
+#### Day 11 - Hearts Rangoli
+{{< youtube id="dFUCr6BK88s"  autoplay="false" >}}\
